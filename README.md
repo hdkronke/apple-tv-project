@@ -1,6 +1,6 @@
 # Apple TV Project
 ## Module 16-17
-### This project was done in collaboration with Patrick Bacza, June Kimm, Garret Bradley, and Trey Lumley
+### This project was a collaboration between Hays Kronke, Trey Lumley, Patrick Bacza, Garret Bradley, and June Kimm
 
 For this project, we created a database of shows and movies on the Apple TV streaming service. We pulled the data from this source on Kaggle:
 https://www.kaggle.com/datasets/dgoenrique/apple-tv-movies-and-tv-shows?resource=download
