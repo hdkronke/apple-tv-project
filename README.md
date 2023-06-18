@@ -1,5 +1,7 @@
 # Apple TV Project
 ## Module 16-17
+### This project was done in collaboration with Patrick Bacza, June Kimm, Garret Bradley, and Trey Lumley
+
 1. Topic selected: Show/movie DB for Apple TV as of Mar 2023 (over 171 shows)
   Members: Patrick Bacza
            Hays Kronke
