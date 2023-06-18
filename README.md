@@ -1,5 +1,5 @@
-# Project-3-of-Group-2
-
+# Apple TV Project
+## Module 16-17
 1. Topic selected: Show/movie DB for Apple TV as of Mar 2023 (over 171 shows)
   Members: Patrick Bacza
            Hays Kronke
