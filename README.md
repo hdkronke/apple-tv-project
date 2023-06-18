@@ -19,8 +19,7 @@ Using Plotly chart built from data gathered through the API call; using javascri
     (F) Shows/movies by certain actors (client side filtering)
 
 Interactivity
+
     (a) Drop down menu between the charts.
-
     (b) Different filters based on age, release date, actor staring. *(Only on certain charts)
-
     (c) Using (https://freefrontend.com/html-menu-with-javascript/) create a menu/dropdown menu between charts.
